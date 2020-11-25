@@ -14,7 +14,7 @@ Hier wird dir gezeigt, wie du musikalische Noten für den Calliope programmierst
 Besonders gut eignen sich dafür Klaviernoten. Auch wenn du diese nicht lesen kannst kein Problem! Eine kleine Einführung gibts mit dazu! 
 
 ## Schtitt 1
-Auch auf einem Klavier viel aus wie schnell das Stück gespielt werden soll also Legen wir zuerst eine Geswindigkeit fest mit der die Noten abgespielt werden sollen. 
+Auch auf einem Klavier viel aus wie schnell das Stück gespielt werden soll also Legen wir zuerst eine Geswindigkeit fest mit der die Noten abgespielt werden sollen. Für das Lied Jingle Bells empfiehlt sich ein Tempo von 228 bpm.
 ```blocks
 music.setTempo(228)
 ```
