@@ -20,7 +20,7 @@ music.setTempo(228)
 ```
 ## ~@unplugged 
 Starten wir mit den ersten Noten. <br>
-![Noten](https://github.com/r00b1nh00d/Jinglebells/blob/master/JingleBellsNoten.png?raw=true)
+![Noten](https://github.com/r00b1nh00d/Jinglebells/blob/master/JingleBellsNoten.png?raw=true) <br>
 Einfache erklärung zum Notenlesen: <br>
 Ist hier ein Kreis ohne Füllung gezeichnet nennt man dies "ganze Note" und spielt diese 4-Schläge lang. <br>
 Ist an diesem Kreis ohne Füllung noch ein Strich gezeichnet nennt man dies "halbe Note" und spielt diese 2-Schläge lang. <br>
