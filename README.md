@@ -127,5 +127,5 @@ input.onButtonPressed(Button.A, function () {
 Du möchtest noch mehr Weihnachtslieder auf dem Calliope speichern? <br>
 Kein Problem! <br>
 Mit Hilfe der Wenn-Dann-Bedinugung kannst du eine Jukebox programmieren. <br> 
-Dazu haben wir sogar ein Video für euch: !youtube[JukeBox](https://www.youtube.com/watch?v=K-27g-bg3Ac?raw=true){ size=10 cycle=forever }
+Dazu haben wir sogar ein Video für euch: [JukeBox](https://www.youtube.com/watch?v=K-27g-bg3Ac?raw=true)
 
